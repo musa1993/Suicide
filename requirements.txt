@@ -3,4 +3,4 @@ dash_core_components == 2.0.0
 dash_html_components == 2.0.0
 pandas == 1.4.1
 plotly == 5.8.2
-go == 5.8.2
+go==0.17.2
